@@ -30,10 +30,6 @@
 
 ---
 
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
-
 
 <!--START_SECTION:footer-->
 
