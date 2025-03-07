@@ -43,7 +43,7 @@ Este é um desafio prático no qual implementei funcionalidades para gerenciamen
 
 ## 🚀 Sobre Mim
 
-👋 Olá! Sou [SEU NOME](https://github.com/thaisvilarinho), desenvolvedora apaixonada por tecnologia e aprendizado contínuo.  
+👋 Olá! Sou [Thais Vilarinho](https://github.com/thaisvilarinho), desenvolvedora apaixonada por tecnologia e aprendizado contínuo.  
 
 🔗 **Conecte-se comigo:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/thais-vilarinho-37842b72/)  
