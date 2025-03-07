@@ -7,7 +7,16 @@
   <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
 </p>
 
-### Regras da aplicação
+---
+
+## 📌 Sobre este Projeto
+
+Este projeto foi desenvolvido como parte do **Ignite Node.js**, um curso da [Rocketseat](https://www.rocketseat.com.br/) focado em Node.js e desenvolvimento backend.  
+Este é um desafio prático no qual implementei funcionalidades para gerenciamento de refeições, seguindo as regras e requisitos especificados no desafio.
+
+---
+
+## ✅ Regras da aplicação
 
 - [x] Deve ser possível criar um usuário
 - [x] Deve ser possível identificar o usuário entre as requisições
@@ -30,17 +39,18 @@
 
 ---
 
-
 <!--START_SECTION:footer-->
 
-<br />
-<br />
+## 🚀 Sobre Mim
 
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
+👋 Olá! Sou [SEU NOME](https://github.com/thaisvilarinho), desenvolvedora apaixonada por tecnologia e aprendizado contínuo.  
+
+🔗 **Conecte-se comigo:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/thais-vilarinho-37842b72/)  
+
+✉️ **Contato:** [thaisapvil@gmail.com]  
+
+Espero que goste do projeto! ⭐ Se foi útil para você, considere dar um **star** no repositório! 🚀
+
 
 <!--END_SECTION:footer-->
-
