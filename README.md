@@ -1,26 +1,27 @@
-# RF
-[x] Deve ser possível criar um usuário
-[x] Deve ser possível identificar o usuário entre as requisições
-[x] Deve ser possível registrar uma refeição feita, com as seguintes informações:
-    *As refeições devem ser relacionadas a um usuário.*
-    - Nome
-    - Descrição
-    - Data e Hora
-    - Está dentro ou não da dieta
-[x] Deve ser possível editar uma refeição, podendo alterar todos os dados acima
-[x] Deve ser possível apagar uma refeição
-[x] Deve ser possível listar todas as refeições de um usuário
-[x] Deve ser possível visualizar uma única refeição
-[x] Deve ser possível recuperar as métricas de um usuário
-    - Quantidade total de refeições registradas
-    - Quantidade total de refeições dentro da dieta
-    - Quantidade total de refeições fora da dieta
-    - Melhor sequência de refeições dentro da dieta
+📌 Requisitos do Sistema
+✅ Requisitos Funcionais (RF)
+✔ Deve ser possível criar um usuário.
+✔ Deve ser possível identificar o usuário entre as requisições.
+✔ Deve ser possível registrar uma refeição, incluindo:
+    ➜ Nome
+    ➜ Descrição
+    ➜ Data e Hora
+    ➜ Indicação se está dentro ou fora da dieta
+💡 As refeições devem estar associadas a um usuário.
+✔ Deve ser possível editar uma refeição, podendo alterar todos os dados acima.
+✔ Deve ser possível apagar uma refeição.
+✔ Deve ser possível listar todas as refeições de um usuário.
+✔ Deve ser possível visualizar os detalhes de uma refeição específica.
+✔ Deve ser possível recuperar métricas do usuário, incluindo:
+    ➜ Total de refeições registradas
+    ➜ Total de refeições dentro da dieta
+    ➜ Total de refeições fora da dieta
+    ➜ Melhor sequência de refeições dentro da dieta
 
-# RNF
-[x] O sistema deve garantir que apenas o usuário autenticado possa acessar, editar ou excluir suas próprias refeições.
-[x] O sistema deve armazenar os dados das refeições de forma segura e eficiente.
-[x] O sistema deve permitir a recuperação rápida das métricas do usuário.
+🔒 Requisitos Não Funcionais (RNF)
+✔ O sistema deve garantir que apenas usuários autenticados possam acessar, editar ou excluir suas próprias refeições.
+✔ O sistema deve armazenar os dados de forma segura e eficiente.
+✔ O sistema deve permitir a recuperação rápida das métricas do usuário.
 
- # RN   
-[x] O usuário só pode visualizar, editar e apagar as refeições o qual ele criou
+⚠️ Regras de Negócio (RN)
+✔ O usuário só pode visualizar, editar e apagar as refeições que ele criou.
